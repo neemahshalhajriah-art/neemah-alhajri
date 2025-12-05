@@ -1,0 +1,5 @@
+{
+  "name": "Al-Nawabigh School Assistant",
+  "description": "Smart assistant for parents of Al-Nawabigh Basic Education School students, powered by Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
